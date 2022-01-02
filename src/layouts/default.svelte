@@ -10,11 +10,11 @@
 
 <nav>
   <ul>
-    <!-- {#each routes as route}
+ {#each routes as route}
       <li>
         <a href={route.path}>{route.label}</a>
       </li>
-    {/each} -->
+    {/each}
   </ul>
 </nav>
 
