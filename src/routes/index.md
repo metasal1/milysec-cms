@@ -1,6 +1,6 @@
 ---
 label: Home
-title: SvelteKit Netlify CMS
+title: MILYSEC
 nav_label: HOME
 ---
 We’re a rapidly growing team of IT rockstars. We have one mission: helping you make the best IT decisions.
