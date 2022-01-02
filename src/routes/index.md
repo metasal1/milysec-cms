@@ -1,10 +1,14 @@
 ---
 label: Home
 title: SvelteKit Netlify CMS
+nav_label: HOME
 ---
+We’re a rapidly growing team of IT rockstars. We have one mission: helping you make the best IT decisions.
 
-# Welcome to the SvelteKit Netlify CMS example
+We’re here to challenge the way IT works. By thinking differently, we support your team with cutting-edge technology to make sure you’re in control at all times.
 
-This is the [`/routes/index.md`](https://github.com/buhrmi/sveltekit-netlify-cms/blob/main/src/routes/index.md) file, which is preprocessed by [mdsvex](https://mdsvex.com) and is <a href="https://sveltekit-netlify-cms.netlify.app/admin/#/" target="_blank">editable through Netlify CMS</a>
+We’re all in. A win for you is a win for us. More than just your IT guys – we’re a nimble extension of your team.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/buhrmi/sveltekit-netlify-cms&amp;stack=cms) or [view repo](https://github.com/buhrmi/sveltekit-netlify-cms)
+Our goal is to see your business learn and grow with us so no matter what stage you’re at, we’ll be there to cheer you on every step of the way.
+
+WE WANT TO BE PART OF YOUR STORY
